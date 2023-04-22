@@ -568,7 +568,7 @@
     (property "Value" "FH26-39S-0.3SHW" (at 59.69 10.16 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (property "Footprint" "" (at 59.69 -89.84 0)
+    (property "Footprint" "Connectors:FH2639S03SHW" (at 59.69 -89.84 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "" (at 59.69 -189.84 0)
