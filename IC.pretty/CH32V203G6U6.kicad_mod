@@ -490,7 +490,7 @@
 		(zone_connect 2)
 		(uuid "bee8a718-f8f5-461c-8411-7e939d22cf0b")
 	)
-	(model "${KIPRJMOD}/kicad-libs/IC.pretty/QFN-28-1EP_4x4mm_P0.4mm_EP2.4x2.4mm.step"
+	(model "${KIPRJMOD}/kicad-libs/IC.pretty/QFN-28-1EP_4x4mm_P0.4mm_EP2.4x2.4mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
