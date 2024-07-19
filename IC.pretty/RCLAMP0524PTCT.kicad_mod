@@ -1,0 +1,233 @@
+(footprint "RCLAMP0524PTCT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "RCLAMP0524P.TCT-3")
+	(tags "Diode")
+	(property "Reference" "D**"
+		(at -0.01 -2.09 0)
+		(layer "F.SilkS")
+		(uuid "706f619a-589c-4111-932e-92082bc6cf9e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "RCLAMP0524PTCT"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c91c1725-f20e-458b-93f9-697bd32ff23d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5b17067-cfbe-47be-b3ff-15c864f961da")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04286569-a1f5-449a-a1ec-b30489d0107a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f95219c5-0d1b-4de9-ad40-444f8d434f04")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_arc
+		(start -1 0.9)
+		(mid -0.9 1)
+		(end -1 1.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad97d5f6-283f-46ca-8b93-ba47f3a91d3b")
+	)
+	(fp_arc
+		(start -1 1.1)
+		(mid -1.1 1)
+		(end -1 0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "52737525-39c0-4231-8052-fee3699c7aba")
+	)
+	(fp_arc
+		(start -1 1.1)
+		(mid -1.1 1)
+		(end -1 0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "88cf702f-5e53-492c-98cc-210680c23312")
+	)
+	(fp_line
+		(start -1.75 -1.27)
+		(end 1.75 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "252b0c60-b9ef-4e4b-bb49-7ad13a9492cb")
+	)
+	(fp_line
+		(start -1.75 1.27)
+		(end -1.75 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "31b9ca32-aba0-47cb-80a9-60910489e3e6")
+	)
+	(fp_line
+		(start 1.75 -1.27)
+		(end 1.75 1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5ca20151-edd2-4c0d-b0fe-ab2b2ddca219")
+	)
+	(fp_line
+		(start 1.75 1.27)
+		(end -1.75 1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f71f4772-2533-43f1-af91-71561b3c678c")
+	)
+	(fp_line
+		(start -1.25 -0.5)
+		(end -1.25 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4e79897c-60e6-4719-bdd5-7fd1d9b9c295")
+	)
+	(fp_line
+		(start -1.25 0.5)
+		(end 1.25 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "216680ae-179b-4b77-ae7a-d82877bbfbd7")
+	)
+	(fp_line
+		(start 1.25 -0.5)
+		(end -1.25 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3dd4acfe-0d3e-423b-af93-6e69cf1d8c7b")
+	)
+	(fp_line
+		(start 1.25 0.5)
+		(end 1.25 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "542549d8-8e7a-492f-ab47-1ede1817c913")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a07b26e2-03b1-4e42-bbb8-568d93d2e07a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1 0)
+		(size 0.2 1.2555)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "74c3f070-91ad-41d3-968d-86e7a2753a05")
+	)
+	(pad "2" smd rect
+		(at -0.5 0)
+		(size 0.2 1.2555)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ab82d419-816a-480f-9462-cb731100da1f")
+	)
+	(pad "3" smd rect
+		(at 0 0)
+		(size 0.4 1.2555)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a772926e-6489-4b4e-95c8-b0f4fc80e2d8")
+	)
+	(pad "4" smd rect
+		(at 0.5 0)
+		(size 0.2 1.2555)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7d579ab9-8e0f-445b-9c13-d4f447a29f93")
+	)
+	(pad "5" smd rect
+		(at 1 0)
+		(size 0.2 1.2555)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8c53d6f1-ab0c-4628-a14d-432a854d6329")
+	)
+	(model "${KIPRJMOD}/kicad-libs/IC.pretty/RCLAMP0524P.TCT.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
