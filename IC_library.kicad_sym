@@ -26040,7 +26040,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "IC"
-			(at -5.2324 21.9964 0)
+			(at -5.334 22.098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26049,7 +26049,7 @@
 			)
 		)
 		(property "Value" "TPS65132WRVCR"
-			(at -5.2324 19.4564 0)
+			(at -5.334 19.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26137,7 +26137,7 @@
 			)
 		)
 		(property "Sim.Enable" "0"
-			(at -16.51 5.0292 0)
+			(at -16.51 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26147,7 +26147,7 @@
 		)
 		(symbol "TPS65132WRVCR_1_1"
 			(rectangle
-				(start -11.43 17.7292)
+				(start -11.43 17.78)
 				(end 10.922 -19.812)
 				(stroke
 					(width 0.254)
@@ -26158,7 +26158,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 -2.032 0)
+				(at -16.51 -2.54 0)
 				(length 5.08)
 				(name "PGND_1"
 					(effects
@@ -26176,7 +26176,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 -11.176 180)
+				(at 16.51 -11.43 180)
 				(length 5.08)
 				(name "CFLY2"
 					(effects
@@ -26194,7 +26194,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 -9.652 0)
+				(at -16.51 -10.16 0)
 				(length 5.08)
 				(name "PGND_3"
 					(effects
@@ -26212,7 +26212,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 -12.192 0)
+				(at -16.51 -12.7 0)
 				(length 5.08)
 				(name "PGND_4"
 					(effects
@@ -26230,7 +26230,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 -8.636 180)
+				(at 16.51 -8.89 180)
 				(length 5.08)
 				(name "CFLY1"
 					(effects
@@ -26248,7 +26248,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 -15.24 180)
+				(at 16.51 -15.24 180)
 				(length 5.08)
 				(name "REG_1"
 					(effects
@@ -26266,7 +26266,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 6.096 180)
+				(at 16.51 6.35 180)
 				(length 5.08)
 				(name "OUTP_1"
 					(effects
@@ -26284,7 +26284,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 8.636 180)
+				(at 16.51 8.89 180)
 				(length 5.08)
 				(name "OUTP_2"
 					(effects
@@ -26302,7 +26302,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 -14.732 0)
+				(at -16.51 -15.24 0)
 				(length 5.08)
 				(name "AGND_2"
 					(effects
@@ -26320,7 +26320,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 -17.78 180)
+				(at 16.51 -17.78 180)
 				(length 5.08)
 				(name "REG_2"
 					(effects
@@ -26338,7 +26338,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 12.7 180)
+				(at 16.51 12.7 180)
 				(length 5.08)
 				(name "SW_1"
 					(effects
@@ -26356,7 +26356,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 -4.572 0)
+				(at -16.51 -5.08 0)
 				(length 5.08)
 				(name "PGND_2"
 					(effects
@@ -26374,7 +26374,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 15.24 180)
+				(at 16.51 15.24 180)
 				(length 5.08)
 				(name "SW_2"
 					(effects
@@ -26392,7 +26392,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 -17.272 0)
+				(at -16.51 -17.78 0)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -26410,7 +26410,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 -7.112 0)
+				(at -16.51 -7.62 0)
 				(length 5.08)
 				(name "AGND_1"
 					(effects
@@ -26446,7 +26446,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 11.176 0)
+				(at -16.51 11.43 0)
 				(length 5.08)
 				(name "ENP"
 					(effects
@@ -26464,7 +26464,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 8.636 0)
+				(at -16.51 8.89 0)
 				(length 5.08)
 				(name "ENN"
 					(effects
@@ -26482,7 +26482,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 4.572 0)
+				(at -16.51 5.08 0)
 				(length 5.08)
 				(name "SDA"
 					(effects
@@ -26500,7 +26500,7 @@
 				)
 			)
 			(pin passive line
-				(at -16.51 2.032 0)
+				(at -16.51 2.54 0)
 				(length 5.08)
 				(name "SCL"
 					(effects
@@ -26518,7 +26518,7 @@
 				)
 			)
 			(pin passive line
-				(at 15.9512 -4.572 180)
+				(at 16.51 -5.08 180)
 				(length 5.08)
 				(name "OUTN"
 					(effects
