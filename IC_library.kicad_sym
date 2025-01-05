@@ -17889,7 +17889,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -0.127 14.351 0)
+			(at -0.254 14.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17897,7 +17897,7 @@
 			)
 		)
 		(property "Value" "SGM37604A"
-			(at -0.1524 -14.4272 0)
+			(at -0.254 -14.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17942,8 +17942,8 @@
 		)
 		(symbol "SGM37604AYTDF12G_1_1"
 			(rectangle
-				(start -8.001 13.335)
-				(end 7.239 -13.335)
+				(start -7.62 13.462)
+				(end 7.62 -13.462)
 				(stroke
 					(width 0)
 					(type default)
@@ -17953,7 +17953,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -10.5664 -1.9304 0)
+				(at -10.16 -2.54 0)
 				(length 2.54)
 				(name "PWM"
 					(effects
@@ -17971,7 +17971,7 @@
 				)
 			)
 			(pin output line
-				(at 9.8044 8.2804 180)
+				(at 10.16 8.89 180)
 				(length 2.54)
 				(name "OUT"
 					(effects
@@ -17989,7 +17989,7 @@
 				)
 			)
 			(pin input line
-				(at -10.5664 8.2804 0)
+				(at -10.16 8.89 0)
 				(length 2.54)
 				(name "IN"
 					(effects
@@ -18007,7 +18007,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -10.5664 -4.4704 0)
+				(at -10.16 -5.08 0)
 				(length 2.54)
 				(name "HWEN"
 					(effects
@@ -18025,7 +18025,7 @@
 				)
 			)
 			(pin input line
-				(at -10.5664 -10.8204 0)
+				(at -10.16 -11.43 0)
 				(length 2.54)
 				(name "AGND"
 					(effects
@@ -18043,7 +18043,7 @@
 				)
 			)
 			(pin output line
-				(at 9.8044 -1.8796 180)
+				(at 10.16 -1.27 180)
 				(length 2.54)
 				(name "LED3"
 					(effects
@@ -18061,7 +18061,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -10.5664 1.9304 0)
+				(at -10.16 2.54 0)
 				(length 2.54)
 				(name "SCL"
 					(effects
@@ -18079,7 +18079,7 @@
 				)
 			)
 			(pin output line
-				(at 9.8044 0.6604 180)
+				(at 10.16 1.27 180)
 				(length 2.54)
 				(name "LED2"
 					(effects
@@ -18097,7 +18097,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -10.5664 4.4704 0)
+				(at -10.16 5.08 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -18115,7 +18115,7 @@
 				)
 			)
 			(pin output line
-				(at 9.8044 3.2004 180)
+				(at 10.16 3.81 180)
 				(length 2.54)
 				(name "LED1"
 					(effects
@@ -18133,7 +18133,7 @@
 				)
 			)
 			(pin output line
-				(at 9.8044 -4.4704 180)
+				(at 10.16 -5.08 180)
 				(length 2.54)
 				(name "LED4"
 					(effects
@@ -18151,7 +18151,7 @@
 				)
 			)
 			(pin input line
-				(at -10.5664 -8.2804 0)
+				(at -10.16 -8.89 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -18169,7 +18169,7 @@
 				)
 			)
 			(pin output line
-				(at 9.8044 10.8204 180)
+				(at 10.16 11.43 180)
 				(length 2.54)
 				(name "SW"
 					(effects
