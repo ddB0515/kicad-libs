@@ -11630,7 +11630,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "IC"
-			(at 2.921 77.216 0)
+			(at 3.048 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11639,7 +11639,7 @@
 			)
 		)
 		(property "Value" "MAX17135ETJ+"
-			(at 2.921 74.676 0)
+			(at 3.048 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11697,8 +11697,8 @@
 		)
 		(symbol "MAX17135ETJ+_1_0"
 			(rectangle
-				(start -15.113 72.517)
-				(end 17.907 -21.463)
+				(start -15.24 72.644)
+				(end 17.78 -21.59)
 				(stroke
 					(width 0)
 					(type solid)
@@ -11708,7 +11708,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 63.627 0)
+				(at -17.78 63.5 0)
 				(length 2.54)
 				(name "DP"
 					(effects
@@ -11726,7 +11726,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 38.227 0)
+				(at -17.78 38.1 0)
 				(length 2.54)
 				(name "DN"
 					(effects
@@ -11744,7 +11744,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 -12.573 0)
+				(at -17.78 -12.7 0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -11762,7 +11762,7 @@
 				)
 			)
 			(pin passive line
-				(at -2.413 -24.003 90)
+				(at -3.81 -24.13 90)
 				(length 2.54)
 				(name "SCL"
 					(effects
@@ -11780,7 +11780,7 @@
 				)
 			)
 			(pin passive line
-				(at 0.254 -24.003 90)
+				(at 0 -24.13 90)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -11798,7 +11798,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 3.937 180)
+				(at 20.32 3.81 180)
 				(length 2.54)
 				(name "DXP"
 					(effects
@@ -11816,7 +11816,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 -2.413 180)
+				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "DXN"
 					(effects
@@ -11834,7 +11834,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 1.397 0)
+				(at -17.78 1.27 0)
 				(length 2.54)
 				(name "EN"
 					(effects
@@ -11852,7 +11852,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 -6.223 0)
+				(at -17.78 -6.35 0)
 				(length 2.54)
 				(name "FLT#"
 					(effects
@@ -11870,7 +11870,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 5.207 0)
+				(at -17.78 5.08 0)
 				(length 2.54)
 				(name "CEN"
 					(effects
@@ -11888,7 +11888,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 69.977 0)
+				(at -17.78 69.85 0)
 				(length 2.54)
 				(name "PGVDD"
 					(effects
@@ -11906,7 +11906,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 -18.923 0)
+				(at -17.78 -19.05 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -11924,7 +11924,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 7.747 180)
+				(at 20.32 7.62 180)
 				(length 2.54)
 				(name "VCOM"
 					(effects
@@ -11942,7 +11942,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 40.767 180)
+				(at 20.32 40.64 180)
 				(length 2.54)
 				(name "POS"
 					(effects
@@ -11960,7 +11960,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 33.147 180)
+				(at 20.32 33.02 180)
 				(length 2.54)
 				(name "NEG"
 					(effects
@@ -11978,7 +11978,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 25.527 180)
+				(at 20.32 25.4 180)
 				(length 2.54)
 				(name "HVINN"
 					(effects
@@ -11996,7 +11996,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 16.637 180)
+				(at 20.32 16.51 180)
 				(length 2.54)
 				(name "LXN"
 					(effects
@@ -12014,7 +12014,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 69.977 180)
+				(at 20.32 69.85 180)
 				(length 2.54)
 				(name "INN"
 					(effects
@@ -12032,7 +12032,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 44.577 180)
+				(at 20.32 44.45 180)
 				(length 2.54)
 				(name "HVINP"
 					(effects
@@ -12050,7 +12050,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 56.007 180)
+				(at 20.32 55.88 180)
 				(length 2.54)
 				(name "LXP"
 					(effects
@@ -12068,7 +12068,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 57.277 0)
+				(at -17.78 57.15 0)
 				(length 2.54)
 				(name "FBPG"
 					(effects
@@ -12086,7 +12086,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 49.657 180)
+				(at 20.32 49.53 180)
 				(length 2.54)
 				(name "PGND"
 					(effects
@@ -12104,7 +12104,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 47.117 180)
+				(at 20.32 46.99 180)
 				(length 2.54)
 				(name "FBP"
 					(effects
@@ -12122,7 +12122,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.447 67.437 180)
+				(at 20.32 67.31 180)
 				(length 2.54)
 				(name "IN"
 					(effects
@@ -12140,7 +12140,7 @@
 				)
 			)
 			(pin passive line
-				(at 2.794 -24.003 90)
+				(at 3.81 -24.13 90)
 				(length 2.54)
 				(name "EP"
 					(effects
@@ -12158,7 +12158,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 47.117 0)
+				(at -17.78 46.99 0)
 				(length 2.54)
 				(name "DGVDD"
 					(effects
@@ -12176,7 +12176,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 -2.413 0)
+				(at -17.78 -2.54 0)
 				(length 2.54)
 				(name "POK"
 					(effects
@@ -12194,7 +12194,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 44.577 0)
+				(at -17.78 44.45 0)
 				(length 2.54)
 				(name "DGVEE"
 					(effects
@@ -12212,7 +12212,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 15.367 0)
+				(at -17.78 15.24 0)
 				(length 2.54)
 				(name "REF"
 					(effects
@@ -12230,7 +12230,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 21.717 0)
+				(at -17.78 21.59 0)
 				(length 2.54)
 				(name "FBNG"
 					(effects
@@ -12248,7 +12248,7 @@
 				)
 			)
 			(pin passive line
-				(at -17.653 31.877 0)
+				(at -17.78 31.75 0)
 				(length 2.54)
 				(name "PGVEE"
 					(effects
