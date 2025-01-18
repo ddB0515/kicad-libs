@@ -26040,7 +26040,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "IC"
-			(at -5.334 22.098 0)
+			(at -3.048 -20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26049,7 +26049,7 @@
 			)
 		)
 		(property "Value" "TPS65132WRVCR"
-			(at -5.334 19.558 0)
+			(at -8.128 19.558 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26078,7 +26078,7 @@
 			)
 		)
 		(property "Description" "Split-Rail Converter Dual Output (Bipolar) SIMO Regulator for General Dual Supply Applications"
-			(at 0 0 0)
+			(at -1.27 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26148,7 +26148,7 @@
 		(symbol "TPS65132WRVCR_1_1"
 			(rectangle
 				(start -11.43 17.78)
-				(end 10.922 -19.812)
+				(end 10.16 -19.812)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -26176,7 +26176,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 -11.43 180)
+				(at 15.24 -11.43 180)
 				(length 5.08)
 				(name "CFLY2"
 					(effects
@@ -26230,7 +26230,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 -8.89 180)
+				(at 15.24 -8.89 180)
 				(length 5.08)
 				(name "CFLY1"
 					(effects
@@ -26248,7 +26248,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 -15.24 180)
+				(at 15.24 -15.24 180)
 				(length 5.08)
 				(name "REG_1"
 					(effects
@@ -26266,7 +26266,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 6.35 180)
+				(at 15.24 6.35 180)
 				(length 5.08)
 				(name "OUTP_1"
 					(effects
@@ -26284,7 +26284,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 8.89 180)
+				(at 15.24 8.89 180)
 				(length 5.08)
 				(name "OUTP_2"
 					(effects
@@ -26320,7 +26320,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 -17.78 180)
+				(at 15.24 -17.78 180)
 				(length 5.08)
 				(name "REG_2"
 					(effects
@@ -26338,7 +26338,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 12.7 180)
+				(at 15.24 12.7 180)
 				(length 5.08)
 				(name "SW_1"
 					(effects
@@ -26374,7 +26374,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 15.24 180)
+				(at 15.24 15.24 180)
 				(length 5.08)
 				(name "SW_2"
 					(effects
@@ -26518,7 +26518,7 @@
 				)
 			)
 			(pin passive line
-				(at 16.51 -5.08 180)
+				(at 15.24 -5.08 180)
 				(length 5.08)
 				(name "OUTN"
 					(effects
