@@ -541,7 +541,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "3d366738-b675-4708-a727-b6a614a76336")
 	)
-	(model "${KIPRJMOD}/kicad-libs/Connectors.pretty/X05A20L60T.stp"
+	(model "${KICAD_LIBS_DIR}/Connectors.pretty/X05A20L60T.stp"
 		(offset
 			(xyz 0 -1.5 0)
 		)

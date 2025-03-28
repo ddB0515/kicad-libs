@@ -350,7 +350,7 @@
 		(remove_unused_layers no)
 		(uuid "e783dde5-f762-4528-9b55-9220820b0b1c")
 	)
-	(model "${KIPRJMOD}/kicad-libs/Connectors.pretty/HRO_TYPE-C-31-M-12.step"
+	(model "${KICAD_LIBS_DIR}/Connectors.pretty/HRO_TYPE-C-31-M-12.step"
 		(offset
 			(xyz -4.5 -3.75 0)
 		)

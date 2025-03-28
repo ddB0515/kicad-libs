@@ -319,7 +319,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "1e5c92c3-811f-49ec-8898-b3856fda0848")
 	)
-	(model "${KIPRJMOD}/kicad-libs/IC.pretty/TPS61176RTER.stp"
+	(model "${KICAD_LIBS_DIR}/IC.pretty/TPS61176RTER.stp"
 		(offset
 			(xyz 0 0 0)
 		)

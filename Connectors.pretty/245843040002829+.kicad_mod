@@ -481,7 +481,7 @@
 		(chamfer top_right)
 		(uuid "db5e8525-686d-4680-938c-538d0f0ec05a")
 	)
-	(model "${KIPRJMOD}/kicad-libs/Connectors.pretty/245843040002829.stp"
+	(model "${KICAD_LIBS_DIR}/Connectors.pretty/245843040002829.stp"
 		(offset
 			(xyz -2.625 0 0)
 		)

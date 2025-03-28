@@ -309,7 +309,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "97f38ba1-94cd-450b-b268-577085e8b51d")
 	)
-	(model "${KIPRJMOD}/kicad-libs/Connectors.pretty/X05A20L22T.step"
+	(model "${KICAD_LIBS_DIR}/Connectors.pretty/X05A20L22T.step"
 		(offset
 			(xyz 0 -1.2 -0)
 		)
