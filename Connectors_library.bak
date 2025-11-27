@@ -29315,6 +29315,24 @@
 			(pin unspecified line
 				(at -7.62 27.94 0)
 				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 25.4 0)
+				(length 2.54)
 				(name "3"
 					(effects
 						(font
@@ -29331,7 +29349,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 25.4 0)
+				(at -7.62 22.86 0)
+				(length 2.54)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 20.32 0)
 				(length 2.54)
 				(name "5"
 					(effects
@@ -29349,7 +29385,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 22.86 0)
+				(at -7.62 17.78 0)
+				(length 2.54)
+				(name "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 15.24 0)
 				(length 2.54)
 				(name "7"
 					(effects
@@ -29367,7 +29421,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 20.32 0)
+				(at -7.62 12.7 0)
+				(length 2.54)
+				(name "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 10.16 0)
 				(length 2.54)
 				(name "9"
 					(effects
@@ -29385,7 +29457,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 17.78 0)
+				(at -7.62 7.62 0)
+				(length 2.54)
+				(name "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 5.08 0)
 				(length 2.54)
 				(name "11"
 					(effects
@@ -29403,7 +29493,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 15.24 0)
+				(at -7.62 2.54 0)
+				(length 2.54)
+				(name "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 0 0)
 				(length 2.54)
 				(name "13"
 					(effects
@@ -29421,7 +29529,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 12.7 0)
+				(at -7.62 -2.54 0)
+				(length 2.54)
+				(name "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 -5.08 0)
 				(length 2.54)
 				(name "15"
 					(effects
@@ -29439,7 +29565,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 10.16 0)
+				(at -7.62 -7.62 0)
+				(length 2.54)
+				(name "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 -10.16 0)
 				(length 2.54)
 				(name "17"
 					(effects
@@ -29457,7 +29601,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 7.62 0)
+				(at -7.62 -12.7 0)
+				(length 2.54)
+				(name "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 -15.24 0)
 				(length 2.54)
 				(name "19"
 					(effects
@@ -29475,7 +29637,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 5.08 0)
+				(at -7.62 -17.78 0)
+				(length 2.54)
+				(name "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 -20.32 0)
 				(length 2.54)
 				(name "21"
 					(effects
@@ -29493,7 +29673,25 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 2.54 0)
+				(at -7.62 -22.86 0)
+				(length 2.54)
+				(name "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at -7.62 -25.4 0)
 				(length 2.54)
 				(name "23"
 					(effects
@@ -29511,214 +29709,16 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 0 0)
-				(length 2.54)
-				(name "25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -2.54 0)
-				(length 2.54)
-				(name "27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -5.08 0)
-				(length 2.54)
-				(name "29"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "29"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -7.62 0)
-				(length 2.54)
-				(name "31"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "31"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -10.16 0)
-				(length 2.54)
-				(name "33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -12.7 0)
-				(length 2.54)
-				(name "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -15.24 0)
-				(length 2.54)
-				(name "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -17.78 0)
-				(length 2.54)
-				(name "39"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "39"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -20.32 0)
-				(length 2.54)
-				(name "41"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "41"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -22.86 0)
-				(length 2.54)
-				(name "43"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "43"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -7.62 -25.4 0)
-				(length 2.54)
-				(name "45"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "45"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
 				(at -7.62 -27.94 0)
 				(length 2.54)
-				(name "47"
+				(name "24"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "47"
+				(number "24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29729,14 +29729,14 @@
 			(pin unspecified line
 				(at -7.62 -30.48 0)
 				(length 2.54)
-				(name "49"
+				(name "25"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "49"
+				(number "25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29819,14 +29819,14 @@
 			(pin unspecified line
 				(at 7.62 30.48 180)
 				(length 2.54)
-				(name "2"
+				(name "50"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "2"
+				(number "50"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29837,14 +29837,14 @@
 			(pin unspecified line
 				(at 7.62 27.94 180)
 				(length 2.54)
-				(name "4"
+				(name "49"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "4"
+				(number "49"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29855,14 +29855,14 @@
 			(pin unspecified line
 				(at 7.62 25.4 180)
 				(length 2.54)
-				(name "6"
+				(name "48"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "6"
+				(number "48"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29873,14 +29873,14 @@
 			(pin unspecified line
 				(at 7.62 22.86 180)
 				(length 2.54)
-				(name "8"
+				(name "47"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "8"
+				(number "47"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29891,14 +29891,14 @@
 			(pin unspecified line
 				(at 7.62 20.32 180)
 				(length 2.54)
-				(name "10"
+				(name "46"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "10"
+				(number "46"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29909,14 +29909,14 @@
 			(pin unspecified line
 				(at 7.62 17.78 180)
 				(length 2.54)
-				(name "12"
+				(name "45"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "12"
+				(number "45"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29927,14 +29927,14 @@
 			(pin unspecified line
 				(at 7.62 15.24 180)
 				(length 2.54)
-				(name "14"
+				(name "44"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "14"
+				(number "44"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29945,14 +29945,14 @@
 			(pin unspecified line
 				(at 7.62 12.7 180)
 				(length 2.54)
-				(name "16"
+				(name "43"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "16"
+				(number "43"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29963,14 +29963,14 @@
 			(pin unspecified line
 				(at 7.62 10.16 180)
 				(length 2.54)
-				(name "18"
+				(name "42"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "18"
+				(number "42"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29981,14 +29981,14 @@
 			(pin unspecified line
 				(at 7.62 7.62 180)
 				(length 2.54)
-				(name "20"
+				(name "41"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "20"
+				(number "41"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -29999,14 +29999,14 @@
 			(pin unspecified line
 				(at 7.62 5.08 180)
 				(length 2.54)
-				(name "22"
+				(name "40"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "22"
+				(number "40"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30017,14 +30017,14 @@
 			(pin unspecified line
 				(at 7.62 2.54 180)
 				(length 2.54)
-				(name "24"
+				(name "39"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "24"
+				(number "39"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30035,14 +30035,14 @@
 			(pin unspecified line
 				(at 7.62 0 180)
 				(length 2.54)
-				(name "26"
+				(name "38"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "26"
+				(number "38"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30053,14 +30053,14 @@
 			(pin unspecified line
 				(at 7.62 -2.54 180)
 				(length 2.54)
-				(name "28"
+				(name "37"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "28"
+				(number "37"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30071,14 +30071,14 @@
 			(pin unspecified line
 				(at 7.62 -5.08 180)
 				(length 2.54)
-				(name "30"
+				(name "36"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "30"
+				(number "36"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30089,14 +30089,14 @@
 			(pin unspecified line
 				(at 7.62 -7.62 180)
 				(length 2.54)
-				(name "32"
+				(name "35"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "32"
+				(number "35"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30125,14 +30125,14 @@
 			(pin unspecified line
 				(at 7.62 -12.7 180)
 				(length 2.54)
-				(name "36"
+				(name "33"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "36"
+				(number "33"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30143,14 +30143,14 @@
 			(pin unspecified line
 				(at 7.62 -15.24 180)
 				(length 2.54)
-				(name "38"
+				(name "32"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "38"
+				(number "32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30161,14 +30161,14 @@
 			(pin unspecified line
 				(at 7.62 -17.78 180)
 				(length 2.54)
-				(name "40"
+				(name "31"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "40"
+				(number "31"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30179,14 +30179,14 @@
 			(pin unspecified line
 				(at 7.62 -20.32 180)
 				(length 2.54)
-				(name "42"
+				(name "30"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "42"
+				(number "30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30197,14 +30197,14 @@
 			(pin unspecified line
 				(at 7.62 -22.86 180)
 				(length 2.54)
-				(name "44"
+				(name "29"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "44"
+				(number "29"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30215,14 +30215,14 @@
 			(pin unspecified line
 				(at 7.62 -25.4 180)
 				(length 2.54)
-				(name "46"
+				(name "28"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "46"
+				(number "28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30233,14 +30233,14 @@
 			(pin unspecified line
 				(at 7.62 -27.94 180)
 				(length 2.54)
-				(name "48"
+				(name "27"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "48"
+				(number "27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -30251,14 +30251,14 @@
 			(pin unspecified line
 				(at 7.62 -30.48 180)
 				(length 2.54)
-				(name "50"
+				(name "26"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "50"
+				(number "26"
 					(effects
 						(font
 							(size 1.27 1.27)
