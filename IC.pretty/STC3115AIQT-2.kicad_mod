@@ -1,0 +1,218 @@
+(footprint "STC3115AIQT-2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.03 -2.18 0)
+		(layer "F.SilkS")
+		(uuid "6bfd1adc-00e4-4432-86e5-a1e532ca674a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "STC3115AIQT-2"
+		(at -0.11 2.64 0)
+		(layer "F.Fab")
+		(uuid "9432a973-132d-44c9-bfff-aad9eb041dbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e99ec73-0599-43aa-bb67-15dd162efca6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e075d44f-cb20-45b2-a676-ed6d22341004")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.54 -1.02)
+		(end -1.29 -1.02)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "839e7bc1-ef0b-49cc-811e-c1dd3cb3396a")
+	)
+	(fp_line
+		(start -1.54 1.02)
+		(end -1.54 -1.02)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9bd098f6-40c3-471a-a1e1-1b15b1096327")
+	)
+	(fp_line
+		(start -1.29 1.02)
+		(end -1.54 1.02)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5972e1c1-3a94-4075-b5b4-3809e066579f")
+	)
+	(fp_line
+		(start 1.27 -1.02)
+		(end 1.52 -1.02)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72b3c919-1319-483c-9775-f891afa54c7c")
+	)
+	(fp_line
+		(start 1.52 -1.02)
+		(end 1.52 1.02)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "89796f27-b100-4ba2-86a7-bf8bd20628b3")
+	)
+	(fp_line
+		(start 1.52 1.02)
+		(end 1.27 1.02)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b43a2ead-f65a-4172-a5da-98ad394d8e00")
+	)
+	(fp_circle
+		(center -1.52 1.52)
+		(end -1.39 1.52)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8c8b3319-7bc2-4561-8b68-632e9c33808a")
+	)
+	(fp_circle
+		(center -1.5 1)
+		(end -1.47 1)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a94410b0-29f4-4081-bbef-af4c537d3a03")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "b6b0f860-93a4-46f6-b329-9334df6dd2c5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "A1" smd rect
+		(at -1 0.8)
+		(size 0.23 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "39f81a6a-bf6f-4cfc-9b86-d3ef779169ef")
+	)
+	(pad "A3" smd rect
+		(at -1 -0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "06ccfc32-a434-488f-844c-dd044ed3d677")
+	)
+	(pad "B1" smd rect
+		(at -0.5 0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e462435e-b41c-4796-aa4d-a30cfa6db761")
+	)
+	(pad "B2" smd rect
+		(at 0 -0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7f2bd05f-7d0d-44b0-80ac-406c177f8513")
+	)
+	(pad "B3" smd rect
+		(at -0.5 -0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d8092472-b9cf-476a-8989-ce0d11c80c7c")
+	)
+	(pad "C1" smd rect
+		(at 0 0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "85c0d81f-6e3f-4c70-9b8d-daec810f288f")
+	)
+	(pad "C3" smd rect
+		(at 0.5 -0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "12de6526-7e87-4029-9256-e2099c76f569")
+	)
+	(pad "D1" smd rect
+		(at 1 0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5e1673e1-b160-41ab-a108-a13d56c7b961")
+	)
+	(pad "D2" smd rect
+		(at 0.5 0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3eab7232-049c-4493-998e-889f8f044092")
+	)
+	(pad "D3" smd rect
+		(at 1 -0.89)
+		(size 0.23 0.82)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9d6a1b2d-7043-40d2-9778-6da07767cece")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_LIBS_DIR}/IC.pretty/STC3115AIQT.wrl"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
